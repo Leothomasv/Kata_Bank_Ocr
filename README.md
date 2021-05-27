@@ -1,7 +1,7 @@
 # Kata_Bank_Ocr
 http://codingdojo.org/?KataBankOCR
 
-Para compilar el propgrama
+Para compilar el programa
 
 #Paso 1
 ghc --make main.hs
