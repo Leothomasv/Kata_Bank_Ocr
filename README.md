@@ -7,4 +7,4 @@ Para compilar el propgrama
 ghc --make main.hs
 
 #Paso 2
-cat <input file> | ./main
+cat input file | ./main
